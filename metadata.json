@@ -1,0 +1,11 @@
+{
+  "name": "مولد و زمانبندی آسان استارمیکر (StarMaker Karaoke Helper)",
+  "description": "سامانه هوشمند زمان‌بندی و تولید لیریکس کارائوکه استارمیکر، خروجی فایل LRC، همراه با لیگ معرفان و مشاهیر وفاداران اکوسیستم توانا سیتی",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
